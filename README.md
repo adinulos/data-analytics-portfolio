@@ -11,6 +11,6 @@ The purpose of Milestone Project 2 is to clean bird watching data in SQL and Pyt
 ### NBAStats 
 This projects is done in three parts, the goal is to go through the full Data Analytics methodology from web scraping, data cleaning, transforming and machine learning for predictive analysis. 
 
-###### [Part 1 - Web Scraping from NBA reference website](data-analysis-projects/NBAStats.ipynb)
+###### [Part 1 - Web Scraping from NBA reference website](data-analysis-projects/NBA-Stats/NBAStats.ipynb)
 Part 2 - Data Cleaning
 Part 3 - Machine Learning
