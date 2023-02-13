@@ -6,7 +6,7 @@ This repository contains projects and visualizations created from the Data Scien
 ## Statistics
 
 ## Visual Communications
-
+The purpose of Milestone Project 2 is to clean bird watching data in SQL and Python to generate visualizations and insightful dashboards in Tableau
 ## Personal Projects
 ### NBAStats 
 This projects is done in three parts, the goal is to go through the full Data Analytics methodology from web scraping, data cleaning, transforming and machine learning for predictive analysis. 
