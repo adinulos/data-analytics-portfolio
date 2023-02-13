@@ -5,7 +5,7 @@ This repository contains projects and visualizations created from the Data Scien
 
 ## Statistics
 
-## Visual Communications
+## [Visual Communications](data-analysis-projects/Milestone-2/MilestoneProject2.ipynb)
 The purpose of Milestone Project 2 is to clean bird watching data in SQL and Python to generate visualizations and insightful dashboards in Tableau
 ## Personal Projects
 ### NBAStats 
