@@ -10,7 +10,7 @@ The purpose of Milestone Project 2 is to clean bird watching data in SQL and Pyt
 ## Business Intelligence | [What Does It Take to be a NASA Astronaut?](https://public.tableau.com/app/profile/annika.dinulos/viz/AstronautsFinal/Dashboard1)
 The business intelligence project goal was to create a dashboard that displays information about the people chosen to be NASA astronauts between 1959-2013. I wanted to create a dashboard that highlighted some specific characteristics of these astronauts and follow their path to NASA, from undergraduate degrees, graduate degrees, military enlistment, as well as the differences between men and women. It was important to me to focus on both women and men in this project, so women can trace a path in a male dominated industry. 
 
-## [Predicting Parkinson's Disease Severity and Progression with Machine Learning Models]
+## [Predicting Parkinson's Disease Severity and Progression with Machine Learning Models](data-analysis-projects/Milestone-3/DinulosMilestone3.ipynb) | [Presentation](data-analysis-projects/Milestone-3/Dinulos_Milestone3_PD.pdf)
 The purpose of this project to take telemonitoring vocal data and predict disease severity and progression through two variables, M-UPDRS and T-UPDRS scores. Data was cleaned, standardized and modeled using linear regression, ridge regression, random forest and XGBoost. Models were evaluated with R2 scores using both target variables. 
 
 ## Personal Projects
